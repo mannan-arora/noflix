@@ -1,4 +1,4 @@
-# Noflix (Netflix clone)
+# Noflix - Netflix clone
 
 
 
